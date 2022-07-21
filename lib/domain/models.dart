@@ -1,4 +1,4 @@
-// onboarding models
+
 class SliderObject {
   String title;
   String subTitle;
