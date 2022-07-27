@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.minafarid.advanced_flutter_arabic">
+    package="com.example.tody_app">
    <application
-        android:label="advanced_flutter_arabic"
+        android:label="tody_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
